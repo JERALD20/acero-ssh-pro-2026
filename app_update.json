@@ -1,11 +1,11 @@
 {
   "packageName": "com.acero.sshpro",
-  "versionCode": 12,
-  "versionName": "0.0.12",
-  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/acero-ssh-pro-2026\/refs\/heads\/main\/apk\/acero-ssh-pro-v12.apk",
-  "sha256": "c3693ab5fb23ff9bd09710832b695d9ecb526138bf76c28272cff1f1010f25a3",
-  "size": 35900041,
+  "versionCode": 13,
+  "versionName": "0.0.13",
+  "apkUrl": "https:\/\/raw.githubusercontent.com\/JERALD20\/acero-ssh-pro-2026\/refs\/heads\/main\/apk\/acero-ssh-pro-v13.apk",
+  "sha256": "4b051739f5a491e7a803bcb087be632e5da498aa3c2bf6a6b838c811572f38e0",
+  "size": 35900886,
   "mandatory": true,
   "releaseNotes": "",
-  "uploadedAt": "2026-10-26T11:33:25Z"
+  "uploadedAt": "2026-10-26T16:23:36Z"
 }
